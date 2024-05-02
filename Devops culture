@@ -1,0 +1,46 @@
+The Concept of DevOPs
+What is DevOps?
+According to a publication on gitlab,  DevOps combines development (Dev) and operations (Ops) to increase the efficiency, speed, and security of software development and delivery compared to traditional processes.
+Development of technology refers to advancements and innovations that occur within various fields such as science, engineering, industry, and communication. It involves improvements in tools, techniques, machinery or processes that enhance productivity or provide new capabilities.
+
+IT ops is the management of operations related to the development, maintenance and support of IT systems. This includes activities such as monitoring and management of networks and servers, system upgrades, patches and security updates, user account maintenance and service desk support.
+The combination of these two concepts (Development and Operations) makes up the DevOps process.
+
+Core Components of DevOps
+The core components of DevOps represent the fundamental principles and practices that enable organizations to streamline software development and IT operations, fostering collaboration, automation, and a culture of continuous improvement. These components are essential for achieving the goals of DevOps, which include faster software delivery, improved reliability, and enhanced collaboration between development and operations teams.
+1.	Culture and Collaboration: DevOps emphasizes a cultural shift, promoting collaboration and communication between development, operations, and other relevant teams. A culture of shared responsibility and trust is essential for success.
+2.	Automation: It plays a crucial role in DevOps by reducing manual tasks and increasing efficiency. It includes automated build processes, continuous integration/continuous delivery (CI/CD) pipelines, and infrastructure provisioning.
+3.	Continuous Integration (CI): CI involves automating the integration of code changes multiple times daily into a shared repository. Automated tests are run to identify and address issues early in the development cycle.
+4.	Continuous Delivery (CD): CD extends CI by automating the deployment and delivery of code changes to production or staging environments. It ensures that software is always in a deployable state.
+5.	Microservices and Containerization: DevOps often leverages microservices architecture and containerization (e.g., Docker) to modularize applications, making them more scalable and easier to manage.
+6.	Infrastructure as Code (IaC): IaC allows for the automated provisioning and managing of infrastructure resources using code. Tools like Terraform and Ansible help maintain consistent environments.  
+7.	Monitoring and Feedback: Continuous monitoring of applications and infrastructure is critical for identifying issues and collecting feedback. Tools like Prometheus and Grafana provide insights into system health and performance.
+8.	Feedback Loops: Establishing feedback loops is crucial for continuous improvement. Teams gather feedback from end-users, operations, and development to make data-driven decisions and refine their processes.
+9.	Security (DevSecOps): Security is integrated throughout the DevOps pipeline, ensuring that security measures are applied at every stage. Automated security testing and vulnerability scanning are common practices.
+10.	Version Control: Version control systems (e.g., Git) track changes in code and configurations, enabling collaboration, code review, and the ability to roll back changes if needed.
+11.	Agile Methodologies: DevOps often aligns with Agile methodologies, promoting iterative and incremental development practices that adapt rapidly to changing requirements.
+12.	Knowledge Sharing and Documentation: Encouraging knowledge sharing through documentation and cross-training ensures the team is well-informed and can work efficiently.
+13.	Scalability and Resilience: DevOps practices include planning for scalability and building resilient systems to handle unexpected failures and increased workloads.
+Top DevOps Tools
+1.	Git  (GitLab, GitHub, Bitbucket)
+2.	 Maven 
+3.	Jenkins 
+4.	Chef 
+5.	Puppet 
+6.	 Ansible 
+7.	Docker 
+8.	Kubernetes 
+9.	Slack 
+10.	AWS Cloud Computing and Storage in DevOps 
+11.	Azure  Cloud Computing and Storage in DevOps
+12.	GCP Cloud Computing Storage in DevOps
+13.	SignalFx
+14.	Appdynamics
+15.	Raygun
+16.	Splunk Cloud
+17.	Selenium
+18.	Gremlin
+19.	ServiceNow
+20.	Status Service Updates: The Status Page
+These are some of the tools DevOps use.
+
